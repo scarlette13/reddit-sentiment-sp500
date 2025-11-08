@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+*.env
+*.yaml.lock
+
+# Data
+data/
+figures/
+reports/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/

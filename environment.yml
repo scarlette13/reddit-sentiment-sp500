@@ -1,0 +1,17 @@
+name: rsent
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - requests
+  - yfinance
+  - nltk
+  - vaderSentiment
+  - statsmodels
+  - matplotlib
+  - scikit-learn
+  - python-dotenv
+  - jupyter
